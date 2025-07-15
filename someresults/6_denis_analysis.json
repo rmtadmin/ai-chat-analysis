@@ -1,0 +1,13 @@
+{
+  "has_order": false,
+  "product_details": {
+    "material": null,
+    "color": null,
+    "size": null,
+    "price": null,
+    "quantity": null
+  },
+  "complaint": false,
+  "total_sum": null,
+  "summary": "Обсуждение посещения тренировки по хоккею в субботу в 13:15. Клиент сообщает о невозможности присутствовать из-за работы.  Упоминается, что работа клиента - это субботние дни."
+}
