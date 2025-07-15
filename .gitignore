@@ -1,0 +1,13 @@
+# Секреты и окружение
+.env
+.env.*
+credentials.json
+
+# Кеши и временные файлы
+__pycache__/
+
+# Результаты и артефакты
+output/
+data/
+
+credentials.json
